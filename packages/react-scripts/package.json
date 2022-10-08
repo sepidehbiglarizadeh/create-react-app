@@ -2,9 +2,10 @@
   "name": "sepidehdev5.666-react-scripts",
   "version": "5.0.23",
   "description": "Sepideh dev Configuration and scripts for Create React App.",
+  "private":false,
   "repository": {
     "type": "git",
-    "url": "git@github.com:sepidehbiglarizadeh/create-react-app.git",
+    "url": "https://github.com/sepidehbiglarizadeh/create-react-app.git",
     "directory": "packages/react-scripts"
   },
   "license": "MIT",
@@ -12,7 +13,7 @@
     "node": ">=14.0.0"
   },
   "bugs": {
-    "url": "git@github.com:sepidehbiglarizadeh/create-react-app.git"
+    "url": "https://github.com/sepidehbiglarizadeh/create-react-app/issues"
   },
   "files": [
     "bin",
